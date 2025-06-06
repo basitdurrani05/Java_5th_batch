@@ -15,17 +15,17 @@ public class thirteen {
     //     for(int i=0; i<=100; i++){
 
     //         System.out.println("Hello World");
-    //     }
+    // }
 
-// }
+//  }
 
     // 2). Non Static
 
 
-    public void basit(){
+    // public void basit(){
 
-        System.out.println("Basit Durrani");
-    }
+    //     System.out.println("Basit Durrani");
+    // }
 
 
 
@@ -33,7 +33,7 @@ public class thirteen {
 
         // Static Call
 
-    //    kriti();
+    //   kriti();
 
 
 
